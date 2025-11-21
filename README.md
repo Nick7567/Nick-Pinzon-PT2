@@ -35,14 +35,14 @@ Subimos el archivo que queramos
 
 Y aqui tendriamos nuestro archivo
 <img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/204d78f6-2b75-40c2-9fda-7345c904609e" />
-#Subir una carpeta
-Para poder subir una carpeta podemos hacer el mismo procedimiento pero en vez de darle a "Upload files" le damos a "Upload Folders
+#Subir/crear una carpeta
+Para poder crear una carpeta podemos darle click a "create new folder"
 <img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/c2ce1daa-b006-4c79-9f66-40ac4b465ad3" />
 
-Subimos la carperta que queremos 
+Le ponemos el nombre a nuestra carpeta 
 
 Y alli estara nuestra carpeta
-
+<img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/1baea6e4-75a1-42fd-ab29-326dcb6e8ea1" />
 
 INSTALLATION.md
 CONFIGURATION.md
