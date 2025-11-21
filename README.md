@@ -19,7 +19,7 @@ En "Hard Disk" ponemos Default
 En "Redes" ponemos "puigcastellar1"
 
 ##Comprobar que el NextCloud funciona correctamente
-#subir un archivo
+#Subir un archivo
 Entramos a nextcloud y ahi iniciamos sesion con normalidad
 
 Despues, nos vamos a "files"
@@ -32,6 +32,16 @@ Y le damos en "Upload Files"
 <img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/e41463dc-d424-46e7-b784-53faa844e70e" />
 
 Subimos el archivo que queramos
+
+Y aqui tendriamos nuestro archivo
+<img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/204d78f6-2b75-40c2-9fda-7345c904609e" />
+#Subir una carpeta
+Para poder subir una carpeta podemos hacer el mismo procedimiento pero en vez de darle a "Upload files" le damos a "Upload Folders
+<img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/c2ce1daa-b006-4c79-9f66-40ac4b465ad3" />
+
+Subimos la carperta que queremos 
+
+Y alli estara nuestra carpeta
 
 
 INSTALLATION.md
