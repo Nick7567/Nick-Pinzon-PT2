@@ -19,10 +19,20 @@ En "Hard Disk" ponemos Default
 En "Redes" ponemos "puigcastellar1"
 
 ##Comprobar que el NextCloud funciona correctamente
+#subir un archivo
 Entramos a nextcloud y ahi iniciamos sesion con normalidad
 
 Despues, nos vamos a "files"
 <img width="1195" height="523" alt="imatge" src="https://github.com/user-attachments/assets/106762b5-adfa-42fb-b7a7-68c13eced092" />
+
+Le damos click en "New" 
+<img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/c238ec13-8c12-473a-980e-5c34f61ce9d7" />
+
+Y le damos en "Upload Files"
+<img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/e41463dc-d424-46e7-b784-53faa844e70e" />
+
+Subimos el archivo que queramos
+
 
 INSTALLATION.md
 CONFIGURATION.md
