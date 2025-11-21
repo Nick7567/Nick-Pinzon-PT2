@@ -18,5 +18,11 @@ En "Hard Disk" ponemos Default
 
 En "Redes" ponemos "puigcastellar1"
 
+##Comprobar que el NextCloud funciona correctamente
+Entramos a nextcloud y ahi iniciamos sesion con normalidad
+
+Despues, nos vamos a "files"
+(Tutorial)[img width="1195" height="523" alt="imatge" src="https://github.com/user-attachments/assets/106762b5-adfa-42fb-b7a7-68c13eced092" /]
+
 INSTALLATION.md
 CONFIGURATION.md
