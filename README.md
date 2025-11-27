@@ -44,5 +44,21 @@ Le ponemos el nombre a nuestra carpeta
 Y alli estara nuestra carpeta
 <img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/1baea6e4-75a1-42fd-ab29-326dcb6e8ea1" />
 
+##Como compartir archivos o carpetas con otras personas
+Para compartir archivos o carpetas con cualquier persona, primero tienes que seleccionar el archivo que quieras compartir y luego darle a "share options
+<img width="1854" height="889" alt="imatge" src="https://github.com/user-attachments/assets/c665262b-dff7-44e6-bcd9-70aac0883db0" />
+
+Luego de darle click alli, te apareceran un apartado con las opciones para compartir
+<img width="1855" height="883" alt="imatge" src="https://github.com/user-attachments/assets/1f71593f-7e25-400b-b957-7f057c18937f" />
+
+Podemos elegir nuestro tipo de envio, yo lo hare utilizando el correo 
+<img width="1851" height="882" alt="imatge" src="https://github.com/user-attachments/assets/3064d421-9b43-4597-b72c-eebd566aff23" />
+
+Elegimos que puede hacer el destinatario con nuestro archivo y le damos a enviar "Save Share" 
+<img width="1850" height="880" alt="imatge" src="https://github.com/user-attachments/assets/7a52f244-8bf5-47ce-bef1-d6fc8714a606" />
+
+y ya tendriamos nuestro archivo compartido
+<img width="1851" height="883" alt="imatge" src="https://github.com/user-attachments/assets/d0d676fe-f0a2-493c-911f-049ef62ae011" />
+
 INSTALLATION.md
 CONFIGURATION.md
