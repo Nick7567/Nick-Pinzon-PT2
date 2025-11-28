@@ -82,6 +82,7 @@ Nos pediran la contraseña de nuestro nexcloud
 <img width="1790" height="780" alt="imatge" src="https://github.com/user-attachments/assets/b1073314-992b-4597-b957-b774bb2a0ba7" />
 
 Al ponerla y darle a "confirm" se nos creara nuestra nueva cuenta
+<img width="1798" height="842" alt="imatge" src="https://github.com/user-attachments/assets/18fe7d0b-e606-482f-aa7f-73d3a1d8aead" />
 
 
 
