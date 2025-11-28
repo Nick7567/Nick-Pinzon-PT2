@@ -60,5 +60,23 @@ Elegimos que puede hacer el destinatario con nuestro archivo y le damos a enviar
 y ya tendriamos nuestro archivo compartido
 <img width="1851" height="883" alt="imatge" src="https://github.com/user-attachments/assets/d0d676fe-f0a2-493c-911f-049ef62ae011" />
 
+##Como crear nuevos usuarios 
+Para crear un nuevo usuario primero tenemos que darle a nuestro perfil y darle a "accounts"
+<img width="1850" height="882" alt="imatge" src="https://github.com/user-attachments/assets/c973c135-d829-4df9-87b0-516530855d0d" />
+
+Luego, en la esquina superior izquierda tenemos que hacer click en "New Account"
+<img width="1848" height="879" alt="imatge" src="https://github.com/user-attachments/assets/69bd1666-bde0-4e8b-9ea5-ee64b1d8428d" />
+
+Se nos abrira un apartado en el cual podremos personalisar nuestra nueva cuenta.
+<img width="1849" height="792" alt="imatge" src="https://github.com/user-attachments/assets/f8fe1b46-ab73-4500-8aca-af682dbde22f" />
+
+Ponemos el rol, en este caso administrador.
+<img width="1850" height="884" alt="imatge" src="https://github.com/user-attachments/assets/4e5d1ae2-48b1-4d71-99c1-f4178b7a6406" />
+
+Le damos a crear y ya tendriamos nuestra nueva cuenta con el rol de administrador.
+
+
+
+
 INSTALLATION.md
 CONFIGURATION.md
