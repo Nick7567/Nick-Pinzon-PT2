@@ -64,7 +64,14 @@ y ya tendriamos nuestro archivo compartido
 Para crear un nuevo usuario primero tenemos que darle a nuestro perfil y darle a "accounts"
 <img width="1850" height="882" alt="imatge" src="https://github.com/user-attachments/assets/c973c135-d829-4df9-87b0-516530855d0d" />
 
-Luego, en la esquina superior izquierda tenemos que hacer click en "New Account"
+Tenemos que darle click a "Crear grupos" para poder crear un grupo y crear nuestras nuevas cuentas con nuestros distintos roles
+
+<img width="1791" height="788" alt="imatge" src="https://github.com/user-attachments/assets/6eaf2063-9372-40b4-a065-afd90994c8db" />
+
+Creamos nuestros grupos 
+<img width="1846" height="876" alt="imatge" src="https://github.com/user-attachments/assets/e6e134a5-b889-46eb-9591-ec7e8f9e1a48" />
+
+Luego, entramos a uno de nuestros grupos y creamos una nueva cuenta dandole click en la esquina superior izquierda donde dice "New Account"
 <img width="1848" height="879" alt="imatge" src="https://github.com/user-attachments/assets/69bd1666-bde0-4e8b-9ea5-ee64b1d8428d" />
 
 Se nos abrira un apartado en el cual podremos personalisar nuestra nueva cuenta.
