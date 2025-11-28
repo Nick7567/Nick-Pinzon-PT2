@@ -36,6 +36,7 @@ Subimos el archivo que queramos
 Y aqui tendriamos nuestro archivo
 <img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/204d78f6-2b75-40c2-9fda-7345c904609e" />
 #Subir/crear una carpeta
+
 Para poder crear una carpeta podemos darle click a "create new folder"
 <img width="1217" height="767" alt="imatge" src="https://github.com/user-attachments/assets/c2ce1daa-b006-4c79-9f66-40ac4b465ad3" />
 
@@ -61,6 +62,7 @@ y ya tendriamos nuestro archivo compartido
 <img width="1851" height="883" alt="imatge" src="https://github.com/user-attachments/assets/d0d676fe-f0a2-493c-911f-049ef62ae011" />
 
 ##Como crear nuevos usuarios 
+
 Para crear un nuevo usuario primero tenemos que darle a nuestro perfil y darle a "accounts"
 <img width="1850" height="882" alt="imatge" src="https://github.com/user-attachments/assets/c973c135-d829-4df9-87b0-516530855d0d" />
 
