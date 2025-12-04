@@ -84,6 +84,9 @@ Nos pediran la contraseña de nuestro nexcloud
 Al ponerla y darle a "confirm" se nos creara nuestra nueva cuenta
 <img width="1798" height="842" alt="imatge" src="https://github.com/user-attachments/assets/18fe7d0b-e606-482f-aa7f-73d3a1d8aead" />
 
+Hacemos esto con las otras dos cuentas y ya tendriamos todas las cuentas con los diferentes roles
+<img width="1852" height="934" alt="image" src="https://github.com/user-attachments/assets/f23016a1-80a9-4887-9d0a-12b9f9b487f7" />
+
 
 
 
