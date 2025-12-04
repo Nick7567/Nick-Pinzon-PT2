@@ -87,6 +87,7 @@ Al ponerla y darle a "confirm" se nos creara nuestra nueva cuenta
 Hacemos esto con las otras dos cuentas y ya tendriamos todas las cuentas con los diferentes roles
 <img width="1852" height="934" alt="image" src="https://github.com/user-attachments/assets/f23016a1-80a9-4887-9d0a-12b9f9b487f7" />
 
+## Como configurar los permisos de los roles
 
 
 
