@@ -4,8 +4,6 @@
 ### 1. Configuració del sistema de virtualització (IsardVDI)
 En primer lloc, hauríem de tenir una sessió iniciada a IsardVDI per poder crear la màquina virtual. Per crear la màquina virtual, hem d’anar a la icona blava on diu **“Escriptori nou”**. Dins d’aquest apartat, hauríem de buscar **“ubuntu-24.04-desktop”**. Després d’això, li posem el nom que vulguem al nou escriptori i l’iniciem.
 
-
->  ⚠️ **NOTA:** És recomanable iniciar-lo amb el visor SPACE
 ### 1.1 Abrir terminal
 Un cop dins de la màquina virtual, iniciarem sessió i ens dirigirem al terminal.
 
@@ -61,7 +59,6 @@ GRANT ALL PRIVILEGES ON bbdd.* TO 'usuario'@'localhost';
 FLUSH PRIVILEGES;
 EXIT;
 ```
->  ⚠️ **NOTA:** Aquest usuari només pot connectar-se des del servidor local (```localhost```), cosa que és suficient si l’aplicació web i la base de dades estan al mateix servidor.
 
 ### 2.4 Instal·la PHP i extensions comunes
 #### Ubuntu 24.04 inclou PHP 8.3 als repositoris estàndard:
