@@ -87,9 +87,30 @@ Al ponerla y darle a "confirm" se nos creara nuestra nueva cuenta
 Hacemos esto con las otras dos cuentas y ya tendriamos todas las cuentas con los diferentes roles
 <img width="1852" height="934" alt="image" src="https://github.com/user-attachments/assets/f23016a1-80a9-4887-9d0a-12b9f9b487f7" />
 
-## Como configurar los permisos de los roles
+## Administración de archivos y seguridad
+
+Para realizar este apartado, deberemos crear una carpeta llamada proyecto, que compartiremos con los grupos que hemos creado. Dentro de esta carpeta, crearemos subcarpetas llamadas: Documentos, Entregables y Recursos, todas ellas también compartidas con los grupos creados.
+
+Después de haber compartido las carpetas con los grupos, crearemos un enlace público, al que le pondremos una fecha de vencimiento y una contraseña cualquiera. Una vez hecho esto, copiaremos el enlace público y lo pegaremos en el navegador. Al acceder, aparecerá una ventana donde deberemos introducir la contraseña que hemos establecido para poder acceder a la carpeta.
+
+![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/31.png)
+![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/32.png)
+![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/33.png)
+![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/34.png)
+![Administración de archivos y seguridad](https://github.com/SaulRM09/Saul-Ram-rez-Mer-n-PT2/blob/main/imagenes/45.png)
+
+---
+## Acceso desde una máquina cualquiera de la red
+
+Para que Nextcloud se pueda utilizar desde cualquier ordenador o dispositivo conectado a la misma red, lo primero es asegurarse de que el servidor en el que está instalado tenga una dirección fija. Esto significa que siempre tendrá la misma "dirección" dentro de la red, y así los otros equipos podrán encontrarlo sin problemas.
+
+Una vez que el servidor tiene esta dirección fija, es necesario comprobar que los puertos de comunicación estén abiertos. Nextcloud funciona normalmente con el puerto 443, que se utiliza para conexiones seguras (HTTPS). Si este puerto está disponible, cualquier equipo de la red podrá conectarse a él sin dificultad.
+
+Cuando todo esto está preparado, desde otro ordenador basta con abrir un navegador y escribir la dirección del servidor, por ejemplo https://192.168.1.100. Al hacerlo, aparecerá la pantalla de inicio de sesión de Nextcloud y el usuario podrá entrar con su nombre y contraseña.
+
+Además del acceso por navegador, también se puede instalar el programa oficial de Nextcloud en el ordenador o en el móvil. Este programa permite sincronizar carpetas y archivos automáticamente, de modo que el usuario siempre tenga sus documentos actualizados en todos los dispositivos. Para configurarlo, basta con poner la misma dirección del servidor y las credenciales de acceso.
+
+En resumen, el acceso desde otra máquina de la red se consigue dando una dirección fija en el servidor, abriendo el puerto adecuado y entrando con esta dirección desde el navegador o cliente oficial. De esta forma, Nextcloud se convierte en un espacio compartido y accesible para todos los usuarios de la red local.
 
 
 
-INSTALLATION.md
-CONFIGURATION.md
